@@ -8,7 +8,7 @@
     - https://github.com/mndahlen/CS433-CERN
 * Project 2: Detection and classification of Legos
     - Team of 3. 
-    - Final and main project of the course. Everything except base ML models were conceived and designed from scratch.
+    - Final and main project of the course.
     - Report available in repository below.
     - https://github.com/mndahlen/CS433-LEGO-DETECTION
 
