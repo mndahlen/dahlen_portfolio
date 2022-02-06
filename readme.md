@@ -30,6 +30,12 @@
     - I also created a GUI for entry of a race track in Python Tkinter
     - PDF report available in this repository
 
+### LiU C++
+* Project: Object oriented programming creating a fun game
+    - Team of 5
+    - I played a big part of designing and implementing the OOP structure. I also created the game cover :)
+    - https://github.com/mndahlen/CPP_game 
+
 ## Professional experience
 ### Ericsson
 * Summer internship 2021
