@@ -15,6 +15,7 @@
 ### EPFL Applied Data Analysis
 * Project: Community analysis of graph created from QuoteBank dataset
     - Team of 4
+    - Datastory: https://julienadda.wixsite.com/arcadieteam
     - https://github.com/mndahlen/CS401-SOCIALGRAPH
 
 ### EPFL Image and Video Processing
