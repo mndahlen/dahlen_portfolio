@@ -1,4 +1,4 @@
-# GitHub portfolio of Martin Dahl (Dahlen)
+# GitHub portfolio of Martin Dahl
 
 ## Course projects
 ### EPFL Machine Learning
