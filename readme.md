@@ -39,6 +39,6 @@
 
 ### Research Assistant Linköping University
 * Created MVPs for various projects. Mostly in Python and Java.
-    - Was a research assistant for Magnus Bång at LiU
+    - Was a research assistant for an Assistant Professor at LiU
     - https://www.svt.se/nyheter/lokalt/ost/ai-ska-gora-sjofarten-sakrare
     - https://liu.se/artikel/sakernas-internet-och-ai
