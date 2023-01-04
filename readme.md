@@ -6,7 +6,7 @@
 * Project: Detection and classification using CSI sensing
     - I researched and implemented machine learning models, neural network architectures based on related academic literature.
     - Team of 6.
-    - Link: Will fix soon (as of 2023-01-40)
+    - Link: Will fix soon (as of 2023-01-04)
     
 ### EPFL Optimization for Machine Learning
 * Project: Open project to do anything related to optimization for machine learning
@@ -17,7 +17,7 @@
 ### EPFL Network (Graph) Machine Learning
 * Project: Link classification
     - Smaller project testing some new method in an attempt to break current benchmarks on a graph data set
-    - Link: Will fix soon (as of 2023-01-40)
+    - Link: Will fix soon (as of 2023-01-04)
 
 ### EPFL Machine Learning
 * Project 1: AICrowd classification of higgs particle
