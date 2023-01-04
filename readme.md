@@ -1,6 +1,24 @@
 # GitHub portfolio of Martin Dahl
 
 ## Course projects
+
+### LiU CDIO
+* Project: Detection and classification using CSI sensing
+    - I researched and implemented machine learning models, neural network architectures based on related academic literature.
+    - Team of 6.
+    - Link: Will fix soon (as of 2023-01-40)
+    
+### EPFL Optimization for Machine Learning
+* Project: Open project to do anything related to optimization for machine learning
+    - Investigated if bayesian learning can be used to help select a good initial point for gradient descent. Conclusion: Not really.
+    - Team of 3
+    - https://github.com/frasalvi/bayesian-optimization
+    
+### EPFL Network (Graph) Machine Learning
+* Project: Link classification
+    - Smaller project testing some new method in an attempt to break current benchmarks on a graph data set
+    - Link: Will fix soon (as of 2023-01-40)
+
 ### EPFL Machine Learning
 * Project 1: AICrowd classification of higgs particle
     - Team of 3
@@ -38,11 +56,17 @@
     - https://github.com/mndahlen/CPP_game 
 
 ## Professional experience
+### Goldman Sachs
+* Summer analyst 2022
+    - Worked in the engineering division withing global markets with the electronic trading team.
+    - Worked in Python, Flask, Git, Gitlab CI, Linux
+    - Was given a personal project which I finished in time.
+    
 ### Ericsson
 * Summer internship 2021
+    - Was given a project which I finished in time with my team mate and offered to stay part-time.
     - Positioning using cell-id fingerprinting
     - Worked in C and C++
-    - https://www.ericsson.com/en/portfolio/digital-services/automated-network-operations/analytics-and-assurance/ericsson-network-location
 
 ### Research Assistant Linköping University
 * Created MVPs for various projects. Mostly in Python and Java.
