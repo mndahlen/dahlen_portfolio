@@ -52,6 +52,7 @@
 ### LiU C++
 * Project: Object oriented programming creating a fun game
     - Team of 5
+    - Skills: C++
     - I played a big part of designing and implementing the OOP structure. I also created the game cover :)
     - https://github.com/mndahlen/CPP_game 
 
@@ -59,17 +60,18 @@
 ### Goldman Sachs
 * Summer analyst 2022
     - Worked in the engineering division withing global markets with the electronic trading team.
-    - Worked in Python, Flask, Git, Gitlab CI, Linux
+    - Skills: Python, Flask, Git, Gitlab CI, Linux
     - Was given a personal project which I finished in time.
     
 ### Ericsson
 * Summer internship 2021
     - Was given a project which I finished in time with my team mate and offered to stay part-time.
     - Positioning using cell-id fingerprinting
-    - Worked in C and C++
+    - Skills: C, C++, Git, Linux, Cloud service.
 
 ### Research Assistant Linköping University
 * Created MVPs for various projects. Mostly in Python and Java.
     - Was a research assistant for an Assistant Professor at LiU
+    - Skills: Python, Java, Docker, NiFi, Linux, all kinds of hacking and programming.
     - https://www.svt.se/nyheter/lokalt/ost/ai-ska-gora-sjofarten-sakrare
     - https://liu.se/artikel/sakernas-internet-och-ai
