@@ -4,9 +4,9 @@
 
 ### LiU CDIO
 * Project: Detection and classification using CSI sensing
-    - I researched and implemented machine learning models, neural network architectures based on related academic literature.
     - Team of 6.
-    - Link: Will fix soon (as of 2023-01-04)
+    - See link to repo below for a more in depth explanation of my contribution.
+    - Link: https://github.com/mndahlen/CDIO_CSI_SENSING
     
 ### EPFL Optimization for Machine Learning
 * Project: Open project to do anything related to optimization for machine learning
