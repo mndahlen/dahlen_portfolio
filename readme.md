@@ -1,6 +1,6 @@
 # GitHub portfolio of Martin Dahl
 
-## Course projects
+## University projects
 
 ### LiU CDIO
 * Project: Detection and classification using CSI sensing
