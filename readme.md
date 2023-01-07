@@ -20,7 +20,7 @@
 * Project: Link classification
     - Smaller project testing some new method in an attempt to break current benchmarks on a graph data set
     - Skills: PyTorch, LaTex, Data Analytics in Python
-    - Report available in repository below
+    - Report available in the repository of this readme
     
 ### EPFL Machine Learning
 * Project 1: AICrowd classification of higgs particle
