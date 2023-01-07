@@ -6,7 +6,7 @@
 * Project: Detection and classification using CSI sensing
     - Team of 6.
     - See link to repo below for a more in depth explanation of my contribution.
-    - Link: https://github.com/mndahlen/CDIO_CSI_SENSING
+    - https://github.com/mndahlen/CDIO_CSI_SENSING
     
 ### EPFL Optimization for Machine Learning
 * Project: Open project to do anything related to optimization for machine learning
