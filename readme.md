@@ -57,7 +57,7 @@
 * Project: Object oriented programming creating a fun game
     - Team of 5
     - Skills: C++
-    - I played a big part of designing and implementing the OOP structure. I also created the game cover :)
+    - I played a big part of designing and implementing the OOP structure as well as a significant part of the game logic. I also created the game cover :)
     - https://github.com/mndahlen/CPP_game 
 
 ## Professional experience
