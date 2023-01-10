@@ -43,7 +43,7 @@
 
 ### EPFL Image and Video Processing
 * Project: Multi-camera tracking of people in a room
-    - On my own, problem was defined and solved by myself
+    - On my own, problem was defined and attempted to be solved by myself
     - https://github.com/mndahlen/procam-multi-camera-recognition
 
 ### LiU BSc Project (Swedish)
@@ -57,13 +57,13 @@
 * Project: Object oriented programming creating a fun game
     - Team of 5
     - Skills: C++
-    - I played a big part of designing and implementing the OOP structure as well as a significant part of the game logic. I also created the game cover :)
+    - I played a big part of designing and implementing the OOP structure as well as a significant part of the game logic. I also created the game cover and a big part of the graphics :)
     - https://github.com/mndahlen/CPP_game 
 
 ## Professional experience
 ### Goldman Sachs
 * Summer analyst 2022
-    - Worked in the engineering division withing global markets with the electronic trading team.
+    - Worked in the Global Markets Division engineering within electronic trading.
     - Skills: Python, Flask, Git, Gitlab CI, Linux
     - Was given a personal project which I finished in time.
     
