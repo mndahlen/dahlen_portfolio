@@ -11,14 +11,13 @@
     
 ### EPFL Optimization for Machine Learning
 * Project: Open project to do anything related to optimization for machine learning
-    - Investigated if bayesian learning can be used to help select a good initial point for gradient descent. Conclusion: Not really.
     - Team of 3
     - Skills: Data Analytics in Python, LaTex
     - https://github.com/frasalvi/bayesian-optimization
     
 ### EPFL Network (Graph) Machine Learning
 * Project: Link classification
-    - Smaller project testing some new method in an attempt to break current benchmarks on a graph data set
+    - Team of 2
     - Skills: PyTorch, LaTex, Data Analytics in Python
     - Report available in the repository of this readme
     
