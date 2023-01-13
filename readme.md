@@ -69,7 +69,7 @@
     
 ### Ericsson
 * Summer internship 2021
-    - Was given a project which I finished in time with my team mate and offered to stay part-time.
+    - Was given a project which I finished in time with my team mate and I was offered to stay part-time.
     - Positioning using cell-id fingerprinting
     - Skills: C, C++, Git, Linux, Cloud service.
 
